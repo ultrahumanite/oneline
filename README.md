@@ -16,6 +16,7 @@ This is were userChrome.css and userContent.css as well as the custom icon files
 5. Restart Firefox
 
 **Optional**
+
 The process described below will allow you to edit userChrome.css and userContent.css in real time and imitaitelly see how your edits affect the way Firefox looks.
 
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/console.png)
