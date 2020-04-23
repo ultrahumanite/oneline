@@ -20,15 +20,15 @@ The process described below will allow you to edit userChrome.css and userConten
 
 **Setting up FireFox build in Developer Tools for real time userChrome.css and userContent.css editing and previewing.**
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/developer_tools.png)
-1. Pres Cmd + Opt + I
-2. Click on the cog that appears in a right or left top corner, next to other buttons.
+1. Pres Cmd + Opt + I a new pannel will open in the Firefox window
+2. Click on the three dots that appears in the right top corner of the panel that just opened, next to the x button
 3. Scroll down to Advanced Settings and check the settings "Enable browser chrome and add-on debugging toolboxes" and "Enable remote debugging".
 4. Close the developer tools panel and proceed with next tutorial
 
 **Using Developer Tools for real time userChrome.css and userContent.css editing and preview.** 
 1. Press Cmd + Opt + Shift + I on Mac
-2. A permission dialog will prompt you to allow remote debug, accept
-3. Click on the tab Style Editor, choose file userChrome.css on the sidebar
+2. A permission dialog will prompt you to allow remote debug, clic ok
+3. Click on the tab Style Editor, choose file userChrome.css from the sidebar on the left
 4. Choose the style you want to preview from this repository, copy the code
 5. Scroll down on the development tools window textbox, paste the code 
 6. You should see the style being applied. If you like what you see, you can click Save, otherwise it will disappear after restarting the browser.
