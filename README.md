@@ -1,5 +1,5 @@
 # Oneline
-One line sytle Nord theme for Firefox implemented via userChrome.css
+One line sytle for Firefox inspired by the Nord color palette and implemented via userChrome.css
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/main_window.png)
 ## Getting Started with userChrome.css and userContent.css
 This is the bare minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox. If you've already enabled userChrome.css and userContent.css in your Firefox setting and created the chrome folder in your profile folder you can skip this section.
