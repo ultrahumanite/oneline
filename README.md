@@ -9,9 +9,9 @@ Insipred by blues of the Nord theme minimal one line design with custom extensio
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/custom_icons.png)
 The process described below will allow you to substitute the defualt icons of your extensions. Reffer to the below screenshot and follow the setp-by-step instructions. 
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/icons_console.png)
-1. 
-2.
-3.
+1. Cut
+2. Cook
+3. Book
 
 
 ## Getting Started with userChrome.css and userContent.css
