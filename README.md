@@ -1,11 +1,17 @@
 # Oneline
 One line sytle Nord theme for Firefox implemented via userChrome.css
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/main_window.png)
-## Getting Started
-This is bare minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox.
+## Getting Started with userChrome.css and userContent.css
+This is the bare minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox. If you've already enabled userChrome.css and userContent.css in your Firefox setting and created the chrome folder in your profile folder you can skip this section.
 
 ### Enable userChrome.css and userContent.css in FireFox
 You must enable userChrome.css and userContent.css functionality in Firefox before creating your custom userChrome.css and userContent.css files. Type **about:config** in your url bar and press Enter search for ***toolkit.legacyUserProfileCustomizations.stylesheets*** and set the value to **true**.
+
+### Locating your profile folder and creating the chrome folder
+1.
+2.
+3.
+This is were userChrome.css and userContent.css as well as the custom icon files if you choose to use those.
 
 #### Optional
 The process described below will allow you to edit userChrome.css and userContent.css in real time and imitaitelly see how your edits affect the way Firefox looks. 
