@@ -1,8 +1,8 @@
 # Oneline
-One line sytle for Firefox inspired by the Nord color palette and implemented via userChrome.css
+One line style for Firefox inspired by the Nord color palette and implemented via userChrome.css
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/main_window.png)
 ## Getting Started with userChrome.css and userContent.css
-This is the bare minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox. If you've already enabled userChrome.css and userContent.css in your Firefox setting and created the chrome folder in your profile folder you can skip this section.
+This is the minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox. If you've already enabled userChrome.css support in your Firefox setting and created the chrome folder in your profile folder you can skip this section.
 
 ### Enable userChrome.css and userContent.css in FireFox
 You must enable userChrome.css and userContent.css functionality in Firefox before creating your custom userChrome.css and userContent.css files. Type **about:config** in your url bar and press Enter search for ***toolkit.legacyUserProfileCustomizations.stylesheets*** and set the value to **true**.
