@@ -15,8 +15,9 @@ This is were userChrome.css and userContent.css as well as the custom icon files
 4. Double click the chrome folder and copy or create userChrome.css and userContent.css files inside it
 5. Restart Firefox
 
-#### Optional
-The process described below will allow you to edit userChrome.css and userContent.css in real time and imitaitelly see how your edits affect the way Firefox looks. 
+**Optional**
+The process described below will allow you to edit userChrome.css and userContent.css in real time and imitaitelly see how your edits affect the way Firefox looks.
+
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/console.png)
 **Setting up FireFox build in Developer Tools for real time userChrome.css and userContent.css editing and previewing.**
 1. Pres Cmd + Opt + I a new pannel will open in the Firefox window
