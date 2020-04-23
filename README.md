@@ -41,3 +41,6 @@ Reffer to the below screenshot and follow the setp-by-step instructions.
 4. Choose the style you want to preview from this repository, copy the code
 5. Scroll down on the development tools window textbox, paste the code 
 6. You should see the style being applied. If you like what you see, you can click Save, otherwise it will disappear after restarting the browser.
+
+## Credits and resources
+This theme as been made possible by the good people of [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS/) majority of the code I've used comes from the users of this great sub-reddit.
