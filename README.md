@@ -1,1 +1,1 @@
-# oneline
+One liner FireFox Css
