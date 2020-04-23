@@ -16,18 +16,17 @@ This is were userChrome.css and userContent.css as well as the custom icon files
 5. Restart Firefox
 
 **Optional**
-
 The process described below will allow you to edit userChrome.css and userContent.css in real time and imitaitelly see how your edits affect the way Firefox looks.
 
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/console.png)
 **Setting up FireFox build in Developer Tools for real time userChrome.css and userContent.css editing and previewing.**
-1. Pres Cmd + Opt + I a new pannel will open in the Firefox window
+1. Pres Cmd + Opt + i a new pannel will open in the Firefox window
 2. Click on the three dots that appears in the right top corner of the panel that just opened, next to the x button
 3. Scroll down to Advanced Settings and check the settings "Enable browser chrome and add-on debugging toolboxes" and "Enable remote debugging".
 4. Close the developer tools panel and proceed with next tutorial
 
 **Using Developer Tools for real time userChrome.css and userContent.css editing and preview.** 
-1. Press Cmd + Opt + Shift + I on Mac
+1. Press Cmd + Opt + Shift + i on Mac
 2. A permission dialog will prompt you to allow remote debug, clic ok
 3. Click on the tab Style Editor, choose file userChrome.css from the sidebar on the left
 4. Choose the style you want to preview from this repository, copy the code
