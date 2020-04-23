@@ -8,10 +8,12 @@ This is the bare minimum esentail setup you need to go thru in order to use user
 You must enable userChrome.css and userContent.css functionality in Firefox before creating your custom userChrome.css and userContent.css files. Type **about:config** in your url bar and press Enter search for ***toolkit.legacyUserProfileCustomizations.stylesheets*** and set the value to **true**.
 
 ### Locating your profile folder and creating the chrome folder
-1.
-2.
-3.
 This is were userChrome.css and userContent.css as well as the custom icon files if you choose to use those.
+1. Type about:support in the url bar and press enter
+2. In the Application Basics table locate section named Profile Folder and click on Show in Finder
+3. Inside your profile folder create a new folder and name it chrome
+4. Double click the chrome folder and copy or create userChrome.css and userContent.css files inside it
+5. Restart Firefox
 
 #### Optional
 The process described below will allow you to edit userChrome.css and userContent.css in real time and imitaitelly see how your edits affect the way Firefox looks. 
