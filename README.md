@@ -6,7 +6,7 @@ One line style for Firefox inspired by the Nord color palette and implemented vi
 Insipred by blues of the Nord theme minimal one line design with custom extension themes. If this is your first time trying to style FireFox via userChrome.css start here [Getting Started with userChrome.css and userContent.css](https://github.com/ultrahumanite/oneline#getting-started-with-userchromecss-and-usercontentcss)
  
 ### Custom Extension Icons Implementation
-![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/extension_icons.png)
+![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/custom_icons.png)
 
 ## Getting Started with userChrome.css and userContent.css
 This is the minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox. If you've already enabled userChrome.css support in your Firefox setting and created the chrome folder in your profile folder you can skip this section.
