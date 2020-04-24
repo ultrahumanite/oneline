@@ -1,5 +1,5 @@
 # Oneline
-One line style for Firefox inspired by the Nord color palette and implemented via userChrome.css
+One line style for Firefox inspired by the [Nord](https://www.nordtheme.com/) color palette and implemented via userChrome.css
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/main_window.png)
 
 ## This theme
