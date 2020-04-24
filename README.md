@@ -3,7 +3,7 @@ One line style for Firefox inspired by the Nord color palette and implemented vi
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/main_window.png)
 
 ## This theme
-Insipred by blues of the Nord theme minimal one line design with custom extension themes. If this is your first time trying to style FireFox via userChrome.css start here [Getting Started with userChrome.css and userContent.css](https://github.com/ultrahumanite/oneline#getting-started-with-userchromecss-and-usercontentcss)
+Insipred by blues of the Nord theme minimal one line design with custom extension themes. If this is your first time trying to style FireFox via userChrome.css start here [Getting Started with userChrome.css and userContent.css](https://github.com/ultrahumanite/oneline#getting-started-with-userchromecss-and-usercontentcss) otherwise to install copy the userChrome.css and userContent.css to your chrome folder, also cosult [Custom extension icons](https://github.com/ultrahumanite/oneline#custom-extension-icons) below if your want to use your own icons.
 
 **Note:** This is a best effort project the code is messy and might include redundnat elements, I welcome all help and input directed toward improving it.
  
