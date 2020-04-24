@@ -8,8 +8,8 @@ Insipred by blues of the Nord theme minimal one line design with custom extensio
 **Note:** This is a best effort project the code is messy and might include redundnat elements, I welcome all help and input directed toward improving it.
  
 ### Custom extension icons
+The process described below will allow you to substitute the defualt icons of your extensions. Reffer to the below screenshots and follow the setp-by-step instructions. 
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/custom_icons.png)
-The process described below will allow you to substitute the defualt icons of your extensions. Reffer to the below screenshot and follow the setp-by-step instructions. 
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/icons_console.png)
 1. Press Cmd + Opt + Shift + i to bring up the Developer Tools window
 2. Locate the element picker in the top left corner of the Developer Tools window, select it
