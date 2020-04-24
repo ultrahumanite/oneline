@@ -11,9 +11,15 @@ Insipred by blues of the Nord theme minimal one line design with custom extensio
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/custom_icons.png)
 The process described below will allow you to substitute the defualt icons of your extensions. Reffer to the below screenshot and follow the setp-by-step instructions. 
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/icons_console.png)
-1. Cut
-2. Cook
-3. Book
+1. Press Cmd + Opt + Shift + i to bring up the Developer Tools window
+2. Locate the element picker in the left right corner of the Developer Tools window, select it
+3. Hoover over the extension icon you want to replace
+4. Reffer back to Developer Tools window a block of code begining with <toolbarbutton id=" copy the id value from located between the quotation marks (example <toolbarbutton id="ublock0_raymondhill_net-browser-action" copy ublock0_raymondhill_net-browser-action")
+5. Make a new entry in you userChrome.css file using the example below. Replace ublock0_raymondhill_net-browser-action with the value you have copied in the step 4 and replace ads.png with the name of the image you want to use
+#ublock0_raymondhill_net-browser-action {
+  list-style-image: url("ads.png") !important;
+}
+
 
 
 ## Getting Started with userChrome.css and userContent.css
