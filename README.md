@@ -16,11 +16,11 @@ The process described below will allow you to substitute the defualt icons of yo
 3. Hoover over the extension icon you want to replace
 4. Reffer back to Developer Tools window a block of code begining with <toolbarbutton id=" copy the id value from located between the quotation marks (example <toolbarbutton id="ublock0_raymondhill_net-browser-action" copy ublock0_raymondhill_net-browser-action")
 5. Make a new entry in you userChrome.css file using the example below. Replace ublock0_raymondhill_net-browser-action with the value you have copied in the step 4 and replace ads.png with the name of the image you want to use
+```css
 #ublock0_raymondhill_net-browser-action {
   list-style-image: url("ads.png") !important;
 }
-
-
+```
 
 ## Getting Started with userChrome.css and userContent.css
 This is the minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox. If you've already enabled userChrome.css support in your Firefox setting and created the chrome folder in your profile folder you can skip this section.
