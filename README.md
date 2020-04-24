@@ -7,23 +7,24 @@ Insipred by blues of the Nord theme minimal one line design with custom extensio
 
 **Note:** This is a best effort project the code is messy and might include redundnat elements, I welcome all help and input directed toward improving it.
  
-### Custom Extension Icons Implementation
+### Custom extension icons
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/custom_icons.png)
 The process described below will allow you to substitute the defualt icons of your extensions. Reffer to the below screenshot and follow the setp-by-step instructions. 
 ![alt text](https://raw.githubusercontent.com/ultrahumanite/oneline/master/screenshots/icons_console.png)
 1. Press Cmd + Opt + Shift + i to bring up the Developer Tools window
-2. Locate the element picker in the left right corner of the Developer Tools window, select it
-3. Hoover over the extension icon you want to replace
-4. Reffer back to Developer Tools window a block of code begining with ```<toolbarbutton id=" copy``` the id value located between the quotation marks (example ```<toolbarbutton id="ublock0_raymondhill_net-browser-action" copy ublock0_raymondhill_net-browser-action"```)
-5. Make a new entry in you userChrome.css file using the example below. Replace ublock0_raymondhill_net-browser-action with the value you have copied in the step 4 and replace ads.png with the name of the image you want to use
+2. Locate the element picker in the top left corner of the Developer Tools window, select it
+3. Hoover the mouse cursor over the extension icon you want to replace and click on it
+4. Reffer back to the Developer Tools window and locate a highlited block of code begining with ```<toolbarbutton id="``` copy the id value located between the quotation marks (example ```<toolbarbutton id="ublock0_raymondhill_net-browser-action"``` copy ```ublock0_raymondhill_net-browser-action"```)
+5. Make a new entry in you userChrome.css file using the example below. Replace ublock0_raymondhill_net-browser-action with your own id value you have copied in the step 4 and replace the ads.png with the name of the image you want to use
 ```css
 #ublock0_raymondhill_net-browser-action {
   list-style-image: url("ads.png") !important;
 }
 ```
 6. Copy the the image file you want to use to your chrome folder
+**Note:** A good source of free replacment icons: ![Flaticons](https://www.flaticon.com)
 
-## Getting Started with userChrome.css and userContent.css
+## Getting started with userChrome.css and userContent.css
 This is the minimum esentail setup you need to go thru in order to use userChrome.css and userContent.css to style Firefox. If you've already enabled userChrome.css support in your Firefox setting and created the chrome folder in your profile folder you can skip this section.
 
 ### Enable userChrome.css and userContent.css in FireFox
