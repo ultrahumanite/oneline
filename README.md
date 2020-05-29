@@ -59,4 +59,4 @@ Reffer to the below screenshot and follow the setp-by-step instructions.
 6. You should see the style being applied. If you like what you see, you can click Save, otherwise it will disappear after restarting the browser.
 
 ## Credits and resources
-This theme as been made possible by the good people of [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS/) majority of the code I've used comes from the users of this great sub-reddit.
+This theme has been made possible by the good people of [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS/) majority of the code comes from the users of this great sub-reddit.
